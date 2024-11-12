@@ -12,7 +12,7 @@
 - Training plots will be saved to the "plots/" folder
 - Apprentice Regressor weights will be saved to the "weights/" folder
 - Master Regressor weights will be saved to the "weightsmaster/" folder
-- Start evaluation. You can download Pre-trained Network.
+- Start evaluation. 
 ```http
   python test.py
 ```
